@@ -111,6 +111,9 @@ function getName(inputname) {
     case 'zoe':
       answer = 'tiene como significado "vida"';
       break;
+    case 'carla':
+      answer = 'Tiene como significado poderosa o "la que es fuerte"';
+      break;
     default:
       answer = 'Hmm, no se encontro resultado para tu nombre';
       break;
